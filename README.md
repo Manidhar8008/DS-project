@@ -1,4 +1,3 @@
-# DS-project
 # Customer Segmentation Using Clustering Techniques
 
 ## 📌 Objective
